@@ -14,6 +14,8 @@ covers:
 - cover_type: archival
   image_path: 43059-h/images/new-cover-tn.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43059#Rumanian-Bird-and-Beast-StoriesRendered-into-English
 gutenberg_issued: '2013-06-29'
 gutenberg_type: Text
 identifiers:
